@@ -4,11 +4,11 @@
 注意：以下视频为经过本人亲自且完整的观看（也包含部分网上有口皆碑的课程）后，觉得整体教授的确实不错的课程，如果你也有好的课程愿意推荐给大家，欢迎Pull a request
 
 ## 1.C语言程序设计（入门&进阶）——浙江大学 翁凯
-出品方：中国大学MOOC
-课程难度：本科一年级
-学习建议：100%零基础可看
-http://www.icourse163.org/course/ZJU-9001
-http://www.icourse163.org/course/ZJU-200001
+- 出品方：中国大学MOOC
+- 课程难度：本科一年级
+- 学习建议：100%零基础可看
+- http://www.icourse163.org/course/ZJU-9001
+- http://www.icourse163.org/course/ZJU-200001
 
 ## 2.数据结构——浙江大学 何钦铭
 出品方：中国大学MOOC
