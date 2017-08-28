@@ -34,3 +34,8 @@ https://www.coursera.org/learn/python/home/welcome
 ## 8.MySQL——与MySQL的零距离接触 平然
 出品方：慕课网
 http://www.imooc.com/learn/122
+
+## 9.计算机网络--哈尔滨工业大学 李全龙
+出品方：中国大学MOOC
+http://www.icourse163.org/learn/HIT-154005?tid=1002210011
+Bilibili、Youtube均有搬运
